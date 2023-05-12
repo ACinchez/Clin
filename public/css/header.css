@@ -1,0 +1,28 @@
+.uic-logo-title{
+    display:flex;
+    
+}/*div class for logo and title*/
+
+.uic-logo{
+    width: 60px;
+} /*Uic logo properties*/
+
+
+.title-logo{
+    color: aliceblue;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}/**/
+.header-1{
+    background-color:#D2334C;
+    display: flex;
+    float: left;
+
+}
+.header{
+    background-color:#D2334C;
+    display: flex;
+
+}
+

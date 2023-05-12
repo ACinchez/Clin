@@ -1,0 +1,58 @@
+.prof-box{
+    width: 180px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 40px
+}
+
+.patient-profile{
+  display: flex;
+}
+.st-name{
+  margin-top: 100px;
+}
+
+.name1{
+ text-align: center;
+ margin-left: -25px;
+}
+
+.clinlab-submit[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  margin-top: 100px;
+  margin-left: 500px;
+  border-radius: 3px;
+}
+.clinlab-submit:hover {
+  background-color: #4ae44f;
+  color: white;
+}
+
+.clinlab-add-result{
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width:auto;
+  font-size: 16px;
+  margin-top: 100px;
+  margin-left: 500px;
+  border-radius: 3px;
+}
+
+.clinlab-add-result:hover{
+  background-color: #38e43e;
+  color: white;
+}
+
+.table-el{
+  padding-right: -50px;
+}
+.align-center{
+  text-align: center !important;
+}

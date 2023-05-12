@@ -1,0 +1,26 @@
+.box {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    height: 150px;
+    border-left: none;
+    border-right: none;
+  }
+
+#school-rank{
+    margin-top: 7px;
+    text-align: center;
+    font-size: 20px;
+    color:black;
+}
+
+#name{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color:black;
+}
+
+.btn-box.w-100.mt-4.mb-1{
+
+}

@@ -1,0 +1,39 @@
+.box {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    height: 250px;
+    border-left: none;
+    border-right: none;
+  }
+
+
+
+
+
+.avatar{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url('pics\gojo-satoru.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#school-rank{
+    margin-top: 3px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#name{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn-box.w-100.mt-4.mb-1{
+
+}

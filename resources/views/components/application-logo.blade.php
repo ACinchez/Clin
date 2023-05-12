@@ -1,0 +1,1 @@
+<img src="{{ asset('pics/uic_logo.png') }}" width="100px">
