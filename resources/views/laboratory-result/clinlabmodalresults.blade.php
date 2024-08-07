@@ -14,8 +14,8 @@
                                 </div>
                               </div>
                               <div class="name1">
-                                <h3 class="st-name">Ricart Russel</h3>
-                                <h4 class="dp-name">BSIT - Major in ssHRM</h4>
+                                <h3 class="st-name">Adrian Maark</h3>
+                                <h4 class="dp-name">BSIT - Major in Comps</h4>
                               </div>
                               <div class="col ml-auto">
                                 <div class="dropdown float-right">

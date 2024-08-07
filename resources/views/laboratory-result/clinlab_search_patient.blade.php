@@ -60,7 +60,7 @@
 
                           {{-- {{$results['lastname']}} --}}
                           {{-- @foreach ($result as $list)
-                            {{ $list->lastname; }}
+                            {{ $list->lastname }}
                           @endforeach --}}
                           {{-- {{$results['lastname']}} --}}
                           {{-- @foreach ($results as $list)

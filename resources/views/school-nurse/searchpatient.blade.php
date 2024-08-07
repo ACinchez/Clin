@@ -123,7 +123,7 @@
               {data: 'grade', name: 'grade'},
               {data: 'religion', name: 'religion'},
               {data: 'gender', name: 'gender'},
-              {data: 'action', name: 'action', orderable: false, searchable: false},
+              {data: 'Action', name: 'Action', orderable: false, searchable: false},
           ]
       });
     </script>

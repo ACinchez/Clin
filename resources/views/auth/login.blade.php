@@ -1,6 +1,11 @@
+
 {{-- <x-guest-layout>
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
+    <link rel="stylesheet" type="text/css" href=" {{ public\css\login.css) }}">
+
+    <body>
+    <img src="{{(public\pics\uic-main.jpg) }}" alt="UIC LOGO">
 
     <form method="POST" action="{{ route('login') }}">
         @csrf

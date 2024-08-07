@@ -1,3 +1,5 @@
+<!-- Clinlab Laboratory side -->
+<!-- LabSideBar -->
 <!doctype html>
 <html lang="en">
 
@@ -45,7 +47,7 @@
             </button>
             <div class="mr-auto d-flex align-items-center">
                 <img src="{{ asset('pics/uic-logo-small.png') }}" alt="" width="50px" class="mr-3">
-                <h1 class="my-0" style="color: white; margin-left: 10px; font-size: 28px;">UIC Laboratory</h1>
+                <h1 class="my-0" style="color: white; margin-left: 10px; font-size: 28px;">UIC Clinical Laboratory</h1>
             </div>
         </nav>
 
@@ -61,7 +63,7 @@
                         </div>
                         <div>
                             <div id="name">{{ Auth::user()->name }}</div>
-                            <p id="school-rank">school nurse</p>
+                            <p id="school-rank">Laboratory Technician</p>
                         </div>
                     </div>
 
